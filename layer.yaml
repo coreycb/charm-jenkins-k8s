@@ -1,0 +1,5 @@
+includes: 
+  - "layer:caas-base"
+  - "layer:docker-resource"
+    
+repo: https://github.com/coreycb/charm-jenkins-k8s.git
